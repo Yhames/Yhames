@@ -1,7 +1,13 @@
 <a href="https://yhames.tistory.com/">
-<img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
 </a>
+
+﻿<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yhames)](https://solved.ac/yhames)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)
+</div>
+
+### 💪 Skills
 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
@@ -13,9 +19,4 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
   <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
-</div>
-
-﻿<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yhames)](https://solved.ac/yhames)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)
 </div>
