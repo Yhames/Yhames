@@ -7,5 +7,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat-square&logo=nestjs">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)﻿
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yhames)](https://solved.ac/yhames)
+﻿<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yhames)](https://solved.ac/yhames)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)
+</div>
