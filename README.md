@@ -8,16 +8,28 @@
 </div>
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
+  </a>
   <a href="https://www.udemy.com/user/bagjeongu-34" target="_blank" rel="noopenner noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
   </a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">  
+  <a href="https://www.inflearn.com" target="_blank" rel="noopenner noreferrer">
+    <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">  
+  </a>
 </div>
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
+  </a>
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  </a>
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
+  </a>
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
+  </a>
 </div>
