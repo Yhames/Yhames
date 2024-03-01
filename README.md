@@ -7,8 +7,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)
 </div>
 
-### 💪 Skills
-
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
   <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">
