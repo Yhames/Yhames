@@ -1,4 +1,7 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=flat-square&logo=42">
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=flat-square&logo=42">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=flat-square&logo=udemy&logoColor=%23FFFFFF">
+</div>
 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23FFFFFF">
