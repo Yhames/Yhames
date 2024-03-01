@@ -7,13 +7,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=6&layout=compact)](https://github.com/yhames/yhames)
 </div>
 
-<div style="pointer-events: none">
+<div>
     <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
     <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
     <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">  
 </div>
 
-<div style="pointer-events: none">
+<div>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
