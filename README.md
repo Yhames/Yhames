@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=flat&logo=42">
 <!--
 **yhames/yhames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
