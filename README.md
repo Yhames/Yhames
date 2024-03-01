@@ -1,13 +1,18 @@
+<a href="https://yhames.tistory.com/">
+<img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
+
+</a>
+
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=flat-square&logo=42">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=flat-square&logo=udemy&logoColor=%23FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">
 </div>
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23FFFFFF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=%23FFFFFF">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat-square&logo=nestjs">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
 </div>
 
 ﻿<div>
