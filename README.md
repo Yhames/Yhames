@@ -1,4 +1,4 @@
-<a href="https://yhames.tistory.com/" target="_blank">
+<a href="https://yhames.tistory.com/" target="_blank" rel="noopenner noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
 </a>
 
@@ -9,7 +9,7 @@
 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
-  <a href="https://www.udemy.com/user/bagjeongu-34" target="_blank">
+  <a href="https://www.udemy.com/user/bagjeongu-34" target="_blank" rel="noopenner noreferrer">
     <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
   </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">  
