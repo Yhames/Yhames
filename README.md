@@ -7,4 +7,4 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=flat-square&logo=nestjs">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=20&hide_progress=true)](https://github.com/yhames/yhames)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhames&langs_count=20&layout=compact)](https://github.com/yhames/yhames)﻿
